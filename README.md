@@ -1,2 +1,2 @@
-# NodeEmbed_20210108
+# NodeEmbed_20220108
 GNNのテストコードになります
